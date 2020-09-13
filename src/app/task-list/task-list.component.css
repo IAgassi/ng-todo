@@ -1,0 +1,22 @@
+h1 {
+    background: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35pt;
+    ;
+  }
+  
+  li {
+    padding: 40px;
+    width: 15%;
+    text-align: center;
+    vertical-align: left;
+    font-size: 15%;
+    /* vertical-align: baseline; */
+    background: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+    border-style: solid;
+    border-color: lightslategray;
+    background: linear-gradient(45deg, black, #272727);
+    color: #f06060
+  }
